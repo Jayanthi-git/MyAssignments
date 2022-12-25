@@ -3,6 +3,7 @@ package week1.day1Assignment;
 public class Mobile {
 public void sendMsg() {
 	System.out.println("This is my mobile");
+	
 	boolean isFullyCharged= false;
 	System.out.println(isFullyCharged);
 	int mobileCost = 45000;
